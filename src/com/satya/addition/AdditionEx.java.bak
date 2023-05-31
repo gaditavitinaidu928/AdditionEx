@@ -7,8 +7,6 @@ public class AdditionEx {
 		int result;
 		result=num1+num2;
 		System.out.println("Addition of two numbers..."+result);
-
-		System.out.println("Chamges made by developer praveen");
 	}
 
 }
